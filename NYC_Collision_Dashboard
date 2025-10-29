@@ -1,0 +1,30 @@
+# 🚗 NYC Collisions Dashboard
+
+An interactive Power BI dashboard analyzing vehicle collisions across New York City to uncover safety insights and trends.
+
+
+## 📊 Project Overview
+This project visualizes NYC motor vehicle collision data to identify high-risk areas, patterns over time, and contributing factors.  
+It aims to support urban safety planning and improve awareness around road incidents.
+
+
+## 🧠 Key Insights
+-Brooklyn and Queens remain the city’s most accident-prone areas.
+-Friday evenings show the highest collision and injury rates.
+-Driver inattention is the leading contributing factor across years.
+-There was a temporary dip in 2024 followed by a rise in 2025, indicating fluctuating urban driving behaviors or enforcement effectiveness.
+
+
+## 🧰 Tools & Skills
+- SQL – Data extraction and preprocessing from raw collision datasets
+- Snowflake – Cloud-based data storage, querying, and modeling
+- Power BI – Interactive dashboard design and visualization
+- DAX – Custom measures for KPIs, severity scoring, and time intelligence
+
+
+## 📈 Dashboard Highlights
+- Visualized 2023–2025 collision patterns, showing a sharp dip in 2024 followed by a rebound in 2025.
+- Mapped collision hotspots across boroughs, with Brooklyn and Queens recording the highest incidents.
+- Identified top causes such as driver inattention, unsafe speed, and failure to yield.
+- Highlighted peak severity during evening hours (7–10 PM) and highest collisions on Fridays.
+
